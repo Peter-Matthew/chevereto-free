@@ -5,15 +5,19 @@
 [![Chevereto Discord](https://img.shields.io/badge/chevereto-discord-5865F2?style=flat-square)](https://chevereto.com/go/discord)
 [![Chevereto Demo](https://img.shields.io/badge/chevereto-demo-d4af37?style=flat-square)](https://demo.chevereto.com)
 
-> [!NOTE]
-> The "Chevereto-Free" project is **archived** and superseed by "Chevereto" at [chevereto/chevereto](https://github.com/chevereto/chevereto).
-
 # Chevereto-Free
 
-"Chevereto-Free" is not longer updated neither maintained, it holds code old as 2020 and it runs on a deprecated PHP version. Is not safe to use "Chevereto-Free". Learn more at [Chevereto goes free](https://rodolfoberrios.com/2022/12/01/chevereto-goes-free/)
+This repo, the "Chevereto-Free" project, is **archived** and superseed by "Chevereto" at [chevereto/chevereto](https://github.com/chevereto/chevereto). Learn more at [Chevereto goes free](https://rodolfoberrios.com/2022/12/01/chevereto-goes-free/).
 
-> [!CAUTION]
-> Most projects around "Chevereto-Free" wrongly use the term "Chevereto" to refer to the project/code. I used the name "Chevereto-Free" because the software project is different, please don't spoil it by chopping "-Free" when refering to this code.
+## Made by Chevereto
+
+[xrDebug](https://xrdebug.com): A lightweight, portable, faster way to debug PHP applications.
+
+[<img src="https://github.com/user-attachments/assets/d396aa49-12d4-418d-8726-eae772947a07" width="419px" />](https://xrdebug.com)
+
+[Chevere](https://chevere.org): High quality Chevere software for building modern applications.
+
+[<img src="https://github.com/user-attachments/assets/463911ae-d43c-4bda-9253-e67beba7ba77" width="419px" />](https://chevere.org)
 
 ## Summary
 
@@ -33,3 +37,8 @@ Chevereto-Free allows you to create an image hosting website on your own server.
 ## License
 
 Copyright [Rodolfo Berríos Arce](http://rodolfoberrios.com) - [AGPLv3](LICENSE).
+
+## Caution
+
+> [!CAUTION]
+> Some third-party projects around "Chevereto-Free" wrongly use the term "Chevereto" to refer to the project/code in this repo, which confuses users. I named this project "Chevereto-Free" because the software in this repo is different, please **don't spoil** it by chopping "-Free" when refering to this code/repo.
