@@ -7,7 +7,7 @@
 
 # Chevereto-Free
 
-This repo, the "Chevereto-Free" project, is **archived** and superseed by "Chevereto" at [chevereto/chevereto](https://github.com/chevereto/chevereto). Learn more at [Chevereto goes free](https://rodolfoberrios.com/2022/12/01/chevereto-goes-free/).
+The "Chevereto-Free" project is superseed by "Chevereto" at [chevereto/chevereto](https://github.com/chevereto/chevereto). Learn more at [Chevereto goes free](https://rodolfoberrios.com/2022/12/01/chevereto-goes-free/).
 
 ## Made by Chevereto
 
