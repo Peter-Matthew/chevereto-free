@@ -9,6 +9,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=flat-square)](https://www.youtube.com/@cheveretocms)
 [![Awesome F/OSS](https://img.shields.io/badge/Awesome_F%2FOSS-Certified-black?colorA=&colorB=874efe&style=flat-square)](https://awsmfoss.com/chevereto/)
 
+> 🔔 [Stay updated](https://chevereto.com/go/newsletter) with the latest news from Chevereto.
+
 # Chevereto-Free
 
 The "Chevereto-Free" project is superseed by "Chevereto" at [chevereto/chevereto](https://github.com/chevereto/chevereto). Learn more at [Chevereto goes free](https://rodolfoberrios.com/2022/12/01/chevereto-goes-free/).
