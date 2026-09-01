@@ -1,10 +1,12 @@
 [![chevereto-ultimate-remix](https://github.com/rodber/chevereto-free/assets/20590102/d926a02c-8ea2-4331-a733-5466a26567c2)](https://chevereto.com)
 
-[![Chevereto Docs](https://img.shields.io/badge/chevereto-docs-50C878?style=flat-square)](https://docs.chevereto.com/)
-[![Chevereto Community](https://img.shields.io/badge/chevereto-community-blue?style=flat-square)](https://chevereto.com/community)
-[![Chevereto Demo](https://img.shields.io/badge/chevereto-demo-d4af37?style=flat-square&color=red)](https://demo.chevereto.com)
-[![Chevereto Free](https://img.shields.io/badge/chevereto-editions-gold?style=flat-square)](https://v4-docs.chevereto.com/introduction/editions/compare.html)
-[![Chevereto Cloud](https://img.shields.io/badge/chevereto-cloud-white?style=flat-square)](https://cloud.chevereto.com)
+[![Docs](https://img.shields.io/badge/docs-50C878?style=flat-square)](https://docs.chevereto.com/)
+[![Blog](https://img.shields.io/badge/blog-coral?style=flat-square)](https://blog.chevereto.com/)
+[![Community](https://img.shields.io/badge/community-dodgerblue?style=flat-square)](https://chevereto.com/community)
+[![Demo](https://img.shields.io/badge/demo-hotpink?style=flat-square)](https://demo.chevereto.com)
+[![Editions](https://img.shields.io/badge/editions-goldenrod?style=flat-square)](https://docs.chevereto.com/introduction/editions/compare.html)
+[![Chevereto Cloud](https://img.shields.io/badge/cloud-deepskyblue?style=flat-square)](https://cloud.chevereto.com)
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=flat-square)](https://www.youtube.com/@cheveretocms)
 [![Awesome F/OSS](https://img.shields.io/badge/Awesome_F%2FOSS-Certified-black?colorA=&colorB=874efe&style=flat-square)](https://awsmfoss.com/chevereto/)
 
 # Chevereto-Free
