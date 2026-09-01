@@ -1,9 +1,11 @@
 [![chevereto-ultimate-remix](https://github.com/rodber/chevereto-free/assets/20590102/d926a02c-8ea2-4331-a733-5466a26567c2)](https://chevereto.com)
 
-[![Chevereto Docs](https://img.shields.io/badge/chevereto-docs-50C878?style=flat-square)](https://v4-docs.chevereto.com/)
+[![Chevereto Docs](https://img.shields.io/badge/chevereto-docs-50C878?style=flat-square)](https://docs.chevereto.com/)
 [![Chevereto Community](https://img.shields.io/badge/chevereto-community-blue?style=flat-square)](https://chevereto.com/community)
-[![Chevereto Discord](https://img.shields.io/badge/chevereto-discord-5865F2?style=flat-square)](https://chevereto.com/go/discord)
-[![Chevereto Demo](https://img.shields.io/badge/chevereto-demo-d4af37?style=flat-square)](https://demo.chevereto.com)
+[![Chevereto Demo](https://img.shields.io/badge/chevereto-demo-d4af37?style=flat-square&color=red)](https://demo.chevereto.com)
+[![Chevereto Free](https://img.shields.io/badge/chevereto-editions-gold?style=flat-square)](https://v4-docs.chevereto.com/introduction/editions/compare.html)
+[![Chevereto Cloud](https://img.shields.io/badge/chevereto-cloud-white?style=flat-square)](https://cloud.chevereto.com)
+[![Awesome F/OSS](https://img.shields.io/badge/Awesome_F%2FOSS-Certified-black?colorA=&colorB=874efe&style=flat-square)](https://awsmfoss.com/chevereto/)
 
 # Chevereto-Free
 
@@ -11,11 +13,15 @@ The "Chevereto-Free" project is superseed by "Chevereto" at [chevereto/chevereto
 
 ## Made by Chevereto
 
+[Chevereto Cloud](https://cloud.chevereto.com): We manage the servers and the infrastructure, so you can enjoy Chevereto without the technical overhead.
+
+[<img src="https://github.com/user-attachments/assets/6969e9db-a817-4937-a597-6a49a4cb4e47" width="419px" />](https://cloud.chevereto.com)
+
 [xrDebug](https://xrdebug.com): A lightweight, portable, faster way to debug PHP applications.
 
 [<img src="https://github.com/user-attachments/assets/d396aa49-12d4-418d-8726-eae772947a07" width="419px" />](https://xrdebug.com)
 
-[Chevere](https://chevere.org): High quality Chevere software for building modern applications.
+[Chevere](https://chevere.org): The final boss library for building high-quality PHP software.
 
 [<img src="https://github.com/user-attachments/assets/463911ae-d43c-4bda-9253-e67beba7ba77" width="419px" />](https://chevere.org)
 
